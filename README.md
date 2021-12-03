@@ -28,3 +28,73 @@
 26.	vscode-styled-components
 
 
+## Important VSCode Settings 
+{
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.fontFamily": "Jetbrains Mono, Monaco, Operator Mono, Menlo, 'Courier New', monospace",
+    "editor.fontSize": 18,
+    "editor.fontLigatures": true,
+    "editor.bracketPairColorization.enabled": true,
+
+    // Preferences - Terminal
+    "terminal.integrated.fontFamily": "MesloLGS NF",
+    "terminal.integrated.fontSize": 22,
+    "terminal.integrated.cursorBlinking": true,
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "expand",
+    "terminal.integrated.cursorStyle": "line",
+    "editor.cursorStyle": "line",
+
+    // Preferences - Workbench, Sidebar & File
+    "workbench.activityBar.visible": true,
+    "workbench.colorCustomizations": {},
+    "files.trimTrailingWhitespace": true,
+    "breadcrumbs.symbolPath": "off",
+    "breadcrumbs.filePath": "off",
+    "breadcrumbs.enabled": false,
+
+    // Enable C/C++ Autocompletion - plugin - C/C++
+    "C_Cpp.intelliSenseEngine": "Default",
+
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.formatOnPaste": true,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+
+    // Settings For Prettier
+    "prettier.tabWidth": 4,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "[scss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+
+    "editor.linkedEditing": true,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[mdx]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.editor.enablePreview": false,
+    "workbench.startupEditor": "welcomePage",
+    "editor.accessibilitySupport": "off",
+    "security.workspace.trust.untrustedFiles": "open",
+    "markdown.preview.fontSize": 18,
+    "markdown.preview.lineHeight": 1.7,
+    "workbench.colorTheme": "Dracula",
+    "editor.inlineSuggest.enabled": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "code-runner.runInTerminal": true
+}
