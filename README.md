@@ -1,25 +1,29 @@
 # vsCode
 Visula Studio Code pakage installatio List:
-1. Auto Close Tag
-2. Auto Rename Tag
-3. Better Comments
-4. Bootstrap 4, Font awsome
-5. Braket Pair Cikirize
-6. Cobalt2 Theme Official
-7. Code Speel Checker
-8. Color Heighlight
-9. ES7 React/Redux/GraphQL
-10. HTML CSS Support
-11. HTML/CSS/JavaScript Snippets
-12. IntellliSense for CSS class name
-13. JavaScript (ES6) code snippets
-14. Live Server
-15. Material Icon Theme
-16. npm
-17. npm Intellisense
-18. open in browser
-19. Path Intellisense
-20. Prettier-Code formatter
-21. Rainbow CVS
-22. Sass/Less/Style/Typrescript
-23. Visual Studio IntelliCode
+ All Autocomplete
+ Auto Close Tag
+ Auto Rename Tag
+Better Comments
+C/C++
+Code Runner
+Code Spell Checker
+Color Highlight
+DotENV
+Dracula Official
+ES7 React/Redux/GraphQL/React-Native snippets
+ESLint
+Git History
+GitLens — Git supercharged
+HTML CSS Support
+JavaScript (ES6) code snippets
+Live Server
+Markdown All in One
+Material Icon Theme
+open in browser
+Path Intellisense
+Prettier - Code formatter
+Sass
+Tailwind CSS IntelliSense
+Visual Studio IntelliCode
+vscode-styled-components
+
