@@ -1,5 +1,5 @@
-# vsCode
-Visula Studio Code pakage installatio List:
+# VS Code
+## Visual Studio Code Extensions List:
 1.	All Autocomplete
 2.	Auto Close Tag
 3.	Auto Rename Tag
